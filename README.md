@@ -35,7 +35,7 @@ The zero-shot and fine-tuned results are paired **within each adaptation profile
 - [`scripts/build_qa_from_properties.py`](scripts/build_qa_from_properties.py): reference label-construction helper from precomputed DSSP and ProtParam descriptors.
 - [`scripts/render_pdb_isometric.py`](scripts/render_pdb_isometric.py): example protein-structure rendering helper using VMD.
 - [`models/adapter_manifest.json`](models/adapter_manifest.json): original LoRA checkpoint metadata and weights checksums.
-- [`docs/`](docs/): details on benchmark reproducibility, model dependencies and publication release checks.
+- [`docs/`](docs/): benchmark reproducibility, model dependencies and reported training settings.
 
 ## Datasets and models
 

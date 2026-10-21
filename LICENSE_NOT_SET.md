@@ -1,5 +1,5 @@
-# No open-source license granted yet
+# License
 
-This repository may be **public temporarily for review**, but no software or data reuse license has been selected or granted. Visibility does not authorize redistribution, derivative use or rehosting.
+This project has not yet been assigned an open-source or open-data license. Public repository access does not itself grant reuse or redistribution permissions.
 
-Permissions and terms for upstream ForceGen/PDB resources, spider-silk input data, derived images/annotations, saved predictions and LoRA weights require separate author/PI and, where relevant, upstream rights-holder review. A `LICENSE` file will be added only after those approvals are confirmed.
+Terms for upstream data, derived annotations, model adapters and research code should be confirmed with the relevant rights holders before assigning licenses.

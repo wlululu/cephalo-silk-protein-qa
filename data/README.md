@@ -1,9 +1,7 @@
-# Data in this repository
+# Benchmark input records
 
-The six evaluation CSVs include only protein identifier, question, ground-truth
-class, and raw model prediction; source protein **sequences** were stripped.
-The three test-ID CSV files document the historic test membership for each
-training strategy (the spider-only and staged partitions are not identical).
+The six files in `evaluations/` record the reference label and raw saved model prediction for each held-out protein/question pair. They contain protein identifiers, question text, ground-truth categories and model responses; protein sequence fields were excluded from this compact benchmark export.
 
-The private upstream Hugging Face datasets carry the original renderings and
-training examples; publication permissions have not yet been confirmed.
+The three files in `splits/` preserve the historical held-out **test** protein identifiers for spider-only, general-only and General → Spider evaluation profiles. Spider-only and staged profiles use different held-out sets.
+
+The full protein image–QA datasets are linked in the root [README](../README.md). The scoring command reads the local prediction CSVs and does not require GPU access.

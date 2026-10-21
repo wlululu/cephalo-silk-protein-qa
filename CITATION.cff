@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the Cephalo-Silk Protein QA project and its accompanying manuscript when using these benchmark artifacts."
+message: "If you use this repository, please cite the accompanying Cephalo-Silk protein manuscript. Update this provisional record after publication."
 type: software
 title: "Cephalo-Silk: Protein Image-Property QA Benchmark and Reproducibility Package"
 authors:
@@ -9,4 +9,13 @@ authors:
     given-names: Markus J.
 url: "https://github.com/wlululu/cephalo-silk-protein-qa"
 repository-code: "https://github.com/wlululu/cephalo-silk-protein-qa"
-abstract: "Evaluation code, saved protein image-QA predictions, held-out test identifiers, and reproducible strict-label benchmark statistics accompanying a working scientific manuscript."
+abstract: "Protein image-property question-answering benchmark scripts, held-out predictions, evaluation splits and scores."
+preferred-citation:
+  type: unpublished
+  title: "Cephalo-Silk: Protein Image-Property Analysis through General-to-Spider Vision-Language Adaptation"
+  authors:
+    - family-names: Lu
+      given-names: Wei
+    - family-names: Buehler
+      given-names: Markus J.
+  year: 2026

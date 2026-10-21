@@ -1,32 +1,34 @@
-# Reproducibility and provenance
+# Benchmark reproducibility and provenance
 
-## What can be reproduced without GPUs
+## Saved-prediction benchmark
 
-The CSV predictions in `data/evaluations/` were assembled from the three historical fine-tuned evaluation outputs and three matched zero-shot runs. For each strategy, records were matched one-to-one by `(protein_name, question)` with identical reference labels. The code in `scripts/score_benchmark.py` reproduces the strict-label results, format compliance, per-question scores and protein-resampled paired-bootstrap confidence intervals. See `results/`.
+The repository includes six historical evaluation CSV files: zero-shot and fine-tuned predictions for spider-only, general-only and General → Spider adaptation profiles. For every profile, records are matched one-to-one using `(protein_name, question)` with identical reference labels. `scripts/score_benchmark.py` reconstructs strict categorical accuracy, per-question results, format compliance, and paired bootstrap 95% confidence intervals resampled by protein.
 
-The three held-out test-ID manifests are historical test membership only. Training-ID manifests and sequence-homology grouping are **not** available in the public GitHub snapshot. In particular, the spider-only and staged test sets differ, so the numerical difference between those two profiles must **not** be interpreted as a paired experimental estimate of an advantage from staged adaptation.
+Run from the repository root:
 
-Strict accuracy scores **whole responses** only after case/trailing-punctuation normalization. A longer explanation that contains a correct label may be marked wrong; thus the improvements partially capture response-format compliance. This benchmark alone does not validate image dependence, semantic protein-property inference or experimentally measured protein mechanics.
+```bash
+python -m unittest discover -s tests -v
+python scripts/score_benchmark.py --input-dir data/evaluations --out results/reproduced
+```
 
-## Original-data and code provenance
+The historical held-out protein IDs for the three evaluation profiles appear in `data/splits/`. The spider-only and staged evaluation groups are distinct, so their reported accuracy difference is not a paired test of staged training superiority.
 
-The privately retained historical notebooks and archives include upstream PDB/protein resources, processing examples and model training outputs. This GitHub repository deliberately excludes notebooks, input protein sequences, source PDB files, full model weights, high-volume training files and any embedded credentials.
+## Data and labels
 
-- `scripts/build_qa_from_properties.py` is a newly curated **label-rule reference utility** taking *already computed* DSSP fractions and ProtParam values. It is not a verified reconstruction of the archived dataset generation process.
-- `scripts/render_pdb_isometric.py` is a newly curated **VMD rendering reference utility** based on archived render settings. The original coordinates, graphics environment and actual output images have not been jointly validated for pixel identity.
-- `docs/training_config.json` summarizes reported settings from the manuscript's Supplementary Information and is not a fully verified historical environment lock file.
+Source datasets, associated image–QA records and model adapters are linked in the root README. The study represents seven categorical QA tasks per protein. The reference helper `scripts/build_qa_from_properties.py` accepts precomputed DSSP fractions and ProtParam sequence descriptors and implements the reported categorical thresholds. It is a transparent utility, not a claim that every historical preprocessing step has been reproduced byte-for-byte.
 
-## External artifacts
+The VMD reference helper `scripts/render_pdb_isometric.py` illustrates the protein-rendering settings. Differences in source coordinates, graphics versions or image preprocessing may affect output images.
 
-Two curated image–QA datasets are hosted privately at `wlululu/spidrion_image_QA.hf` and `wlululu/forcegen_image_QA.hf` on Hugging Face; three LoRA adapter repos are separately hosted at `wlululu/cephalo-silk-{spider,general,staged}-lora`. See the full links and the staged merged-base dependency in [`MODEL_RELEASE.md`](MODEL_RELEASE.md) and the root README.
+## What the scores establish
 
-The dataset cards describe study-intended counts (2,177 spider-silk and 7,024 general proteins), **not** an independently completed verification of all current HF records. Before publication, audit actual HF dataset contents, IDs, labels, file permissions and exact revisions.
+The scoring script validates stored model outputs using strict, whole-response label matching. It does not rerun the foundation model or LoRA adapters. Normalization allows case differences and terminal punctuation but does not extract a correct answer embedded in a longer sentence. As a result, improvements can partly reflect adherence to the expected answer format rather than changes in image-grounded reasoning.
 
-## Pending for an end-to-end reproducible release
+Secondary-structure annotations and sequence-derived physicochemical categories have different evidential relationships to a structural image. These results do not directly validate experimental protein stability, hydrophobicity or mechanical properties.
 
-- Confirm public redistribution rights for source structures/images, processed datasets, predictions and derived model adapters; select software/data licenses with PI approval.
-- Verify input image/QA record mapping, source-data counts and historical train/test splits against the HF snapshots.
-- Sanitize and test genuine historical seven-QA generation, image rendering, data-split, fine-tuning and inference scripts; document versions/seeds/decoding and relevant compute environment.
-- Independently check model loading, original adapter weight hashes and inference for all three paths; validate availability or deterministic reconstruction of the staged merged-base model.
-- Audit exact-sequence and near-homology overlaps and, when feasible, evaluate image-ablated/shuffled-image controls.
-- Record immutable GitHub commit and Hugging Face revision SHAs for the manuscript archive.
+## Model checkpoint lineage
+
+The spider-only and general-only LoRA adapters use the original Cephalo vision-language checkpoint as their base. The staged adapter uses the **merged general-protein model** as its base; that dependency is recorded in `models/adapter_manifest.json` and [MODEL_RELEASE.md](MODEL_RELEASE.md). Reproducing live inference requires the corresponding model, image preprocessing and generation settings in addition to the saved prediction tables.
+
+## Extended reproducibility
+
+For research extending these results, recommended checks include pinned model/dataset revisions, source-processing provenance, training and testing split integrity, sequence-similarity overlap controls, and image-ablation tests. These controls should be distinguished from the exact saved-prediction scoring reproduced by this repository.

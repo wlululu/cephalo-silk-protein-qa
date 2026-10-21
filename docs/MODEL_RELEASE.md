@@ -1,21 +1,13 @@
-# PEFT LoRA adapters and their base-model dependencies
+# LoRA model repositories and lineage
 
-Three **private** Hugging Face model repositories have been created for the archived adapters. Their historical `adapter_model.safetensors` and `adapter_config.json` are independent of the evaluation CSVs; the model weights are not stored in this Git repository.
+Three PEFT LoRA adapters are maintained on Hugging Face. Their original source checkpoint paths and SHA-256 values are documented in [`models/adapter_manifest.json`](../models/adapter_manifest.json); weight files are hosted with the HF model repositories rather than duplicated in GitHub.
 
-| Profile | Historical checkpoint | Hugging Face adapter | Base checkpoint in original PEFT config |
+| Adaptation profile | Source checkpoint | LoRA adapter | Required base model |
 | --- | --- | --- | --- |
-| Spider-silk only | `checkpoint-13720` | [cephalo-silk-spider-lora](https://huggingface.co/wlululu/cephalo-silk-spider-lora) | [original Cephalo](https://huggingface.co/lamm-mit/Cephalo-Llama-3.2-11B-Vision-Instruct-128k) |
-| General-protein only | `checkpoint-44252` | [cephalo-silk-general-lora](https://huggingface.co/wlululu/cephalo-silk-general-lora) | [original Cephalo](https://huggingface.co/lamm-mit/Cephalo-Llama-3.2-11B-Vision-Instruct-128k) |
-| General → spider-silk | `checkpoint-13720` (TwoStep) | [cephalo-silk-staged-lora](https://huggingface.co/wlululu/cephalo-silk-staged-lora) | [general-only **merged** model](https://huggingface.co/wlululu/Cephalo_protein_predict_all_losstrack50_splitbyProtein_general-merged_Epoch4) |
+| Spider-silk only | `checkpoint-13720` | [Spider LoRA](https://huggingface.co/wlululu/cephalo-silk-spider-lora) | [Original Cephalo](https://huggingface.co/lamm-mit/Cephalo-Llama-3.2-11B-Vision-Instruct-128k) |
+| General-protein only | `checkpoint-44252` | [General LoRA](https://huggingface.co/wlululu/cephalo-silk-general-lora) | [Original Cephalo](https://huggingface.co/lamm-mit/Cephalo-Llama-3.2-11B-Vision-Instruct-128k) |
+| General → spider-silk | `checkpoint-13720` (TwoStep) | [Staged LoRA](https://huggingface.co/wlululu/cephalo-silk-staged-lora) | [General-only merged checkpoint](https://huggingface.co/wlululu/Cephalo_protein_predict_all_losstrack50_splitbyProtein_general-merged_Epoch4) |
 
-**Do not mount the staged LoRA directly on the unadapted Cephalo checkpoint.** Its original adapter configuration points to a checkpoint in which general-protein fine-tuning was already merged into the model. The staged path requires access to that merged model **or a separately validated reconstruction** through an equivalent merge procedure. These alternatives have not been shown to give identical predictions here.
+Each HF adapter includes the PEFT adapter weights and configuration and an accompanying model card. **Do not load the staged LoRA directly onto the unadapted Cephalo foundation checkpoint:** its original `adapter_config.json` refers to the general-protein-adapted merged model.
 
-Each standalone LoRA release should have:
-
-- `adapter_model.safetensors`
-- `adapter_config.json` (unchanged original PEFT base-model dependency)
-- `README.md` / Hugging Face Model Card with task, provenance, limitations and upstream model identifiers
-
-The source checkpoint sizes and SHA-256 values are recorded in [`../models/adapter_manifest.json`](../models/adapter_manifest.json). Those hashes describe the **historical source archives**; the Hub-uploaded weights have not been independently compared by SHA-256 in this repository. Likewise, HF repository creation and Model Card metadata **do not prove** successful GPU loading or faithful live inference. Model releases and downstream licensing/redistribution remain subject to review.
-
-The six sets of benchmark results in `data/evaluations/` are **saved historical outputs**, not fresh predictions made from newly uploaded Hub adapters. A definitive model release should independently load all three adapters, check image preprocessing and decoding, compare records to the frozen evaluation set, and pin checkpoint revisions.
+The repository's benchmark results were computed from saved historical predictions. Repeating live model inference additionally requires compatible inference libraries, model-loading code, image preprocessing, prompts and generation configuration. Model loading and evaluation should be validated independently of the offline scoring scripts.

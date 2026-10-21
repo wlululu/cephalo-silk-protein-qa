@@ -57,4 +57,4 @@ The benchmark assesses short categorical responses to protein renderings. Second
 
 ## Citation
 
-Please cite the accompanying manuscript using the provisional [citation template](CITATION.cff). Its final journal, DOI and publication metadata will be added after acceptance/publication.
+[**Citation to be added**]

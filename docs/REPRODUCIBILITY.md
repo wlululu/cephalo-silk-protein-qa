@@ -1,54 +1,32 @@
 # Reproducibility and provenance
 
-## Files inspected
+## What can be reproduced without GPUs
 
-- `Archive(1).zip` provided multiple data-construction notebooks and a VMD
-  `test_render.tcl` example. Original notebooks include unrelated MD tasks,
-  intermediate exploratory cells, large embedded outputs and credentials.
-  **They have NOT been uploaded to this repository.**
-- `Archive(2).zip` provided three fine-tuned evaluation CSVs and LoRA PEFT
-  checkpoints. Only sanitized predictions and safe configuration/metadata were
-  extracted for the GitHub package.
-- The three zero-shot prediction files originate from the earlier matched
-  zero-shot evaluation package. Predictions were matched one-to-one to each
-  corresponding fine-tuned run by `(protein_name, question)`.
+The CSV predictions in `data/evaluations/` were assembled from the three historical fine-tuned evaluation outputs and three matched zero-shot runs. For each strategy, records were matched one-to-one by `(protein_name, question)` with identical reference labels. The code in `scripts/score_benchmark.py` reproduces the strict-label results, format compliance, per-question scores and protein-resampled paired-bootstrap confidence intervals. See `results/`.
 
-## Scope of code
+The three held-out test-ID manifests are historical test membership only. Training-ID manifests and sequence-homology grouping are **not** available in the public GitHub snapshot. In particular, the spider-only and staged test sets differ, so the numerical difference between those two profiles must **not** be interpreted as a paired experimental estimate of an advantage from staged adaptation.
 
-Primary numbers are recovered directly from stored predictions using the
-same strict-label normalization for each model. The published benchmark
-has two distinct target types: DSSP-derived, visually encoded structural
-annotations and sequence-derived ProtParam labels.
+Strict accuracy scores **whole responses** only after case/trailing-punctuation normalization. A longer explanation that contains a correct label may be marked wrong; thus the improvements partially capture response-format compliance. This benchmark alone does not validate image dependence, semantic protein-property inference or experimentally measured protein mechanics.
 
-`build_qa_from_properties.py` is a new, transparent utility implementing
-paper-defined thresholds for metadata that already exists. The original
-notebooks do **not** establish that this utility recreates every historical
-QA record and ordering. `render_pdb_isometric.py` follows the archived VMD
-NewCartoon/structure color/white background/isometric scripts, but without
-access to the original input coordinates/precise graphics environment it
-cannot establish identical pixel values.
+## Original-data and code provenance
 
-## Score interpretation
+The privately retained historical notebooks and archives include upstream PDB/protein resources, processing examples and model training outputs. This GitHub repository deliberately excludes notebooks, input protein sequences, source PDB files, full model weights, high-volume training files and any embedded credentials.
 
-Three profiles each have exactly seven QA records per held-out protein.
-Zero-shot uses the unadapted Cephalo checkpoint on the historical per-profile
-holdout records; fine-tuned outputs use saved historical predictions.
-Strict categorical whole-label scoring is not equal to a validated semantic
-interpretation of long answers. Missing an explicit short-label response
-counts as incorrect, even if a later reviewer might extract a category.
+- `scripts/build_qa_from_properties.py` is a newly curated **label-rule reference utility** taking *already computed* DSSP fractions and ProtParam values. It is not a verified reconstruction of the archived dataset generation process.
+- `scripts/render_pdb_isometric.py` is a newly curated **VMD rendering reference utility** based on archived render settings. The original coordinates, graphics environment and actual output images have not been jointly validated for pixel identity.
+- `docs/training_config.json` summarizes reported settings from the manuscript's Supplementary Information and is not a fully verified historical environment lock file.
 
-The spider-only and staged evaluation holdouts are *different*, so the
-1.4-pp historical difference between those two fine-tuned models is not
-an apples-to-apples estimate of staging benefit.
+## External artifacts
 
-## Remaining gaps before public reproducibility claims
+Two curated image–QA datasets are hosted privately at `wlululu/spidrion_image_QA.hf` and `wlululu/forcegen_image_QA.hf` on Hugging Face; three LoRA adapter repos are separately hosted at `wlululu/cephalo-silk-{spider,general,staged}-lora`. See the full links and the staged merged-base dependency in [`MODEL_RELEASE.md`](MODEL_RELEASE.md) and the root README.
 
-- Validate licensing/redistribution for images, PDB structures, sequences,
-  third-party ForceGen materials and model adapters.
-- Publish/freeze HF dataset revisions and document source QC/cross-domain overlap.
-- Obtain a verified source for the exact historical seven-QA construction and
-  the final rendering settings used to upload both HF datasets.
-- Publish the source training/inference code **after** credential sanitization
-  and environment version verification; determine evaluation generation settings.
-- Publish three adapters on HF and make staged base availability explicit.
-- Preserve raw data splits (training membership) and fixed seed/provenance.
+The dataset cards describe study-intended counts (2,177 spider-silk and 7,024 general proteins), **not** an independently completed verification of all current HF records. Before publication, audit actual HF dataset contents, IDs, labels, file permissions and exact revisions.
+
+## Pending for an end-to-end reproducible release
+
+- Confirm public redistribution rights for source structures/images, processed datasets, predictions and derived model adapters; select software/data licenses with PI approval.
+- Verify input image/QA record mapping, source-data counts and historical train/test splits against the HF snapshots.
+- Sanitize and test genuine historical seven-QA generation, image rendering, data-split, fine-tuning and inference scripts; document versions/seeds/decoding and relevant compute environment.
+- Independently check model loading, original adapter weight hashes and inference for all three paths; validate availability or deterministic reconstruction of the staged merged-base model.
+- Audit exact-sequence and near-homology overlaps and, when feasible, evaluate image-ablated/shuffled-image controls.
+- Record immutable GitHub commit and Hugging Face revision SHAs for the manuscript archive.

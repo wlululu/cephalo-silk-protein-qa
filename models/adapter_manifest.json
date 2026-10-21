@@ -7,7 +7,7 @@
     "adapter_size_bytes": 94491920,
     "adapter_sha256": "2ef12f806e7e6a74f37cbac2b581d6df0438208276b25f93b8ac854d56e5e168",
     "archive_path": "Cephalo_protein_predict_all_losstrack50_splitbyProtein_spider/checkpoint-13720/adapter_model.safetensors",
-    "hub_repository": "TO_BE_DECIDED"
+    "hub_repository": "wlululu/cephalo-silk-spider-lora"
   },
   {
     "profile": "general_only",
@@ -17,7 +17,7 @@
     "adapter_size_bytes": 94491920,
     "adapter_sha256": "3ea5efd0cc1f846686f49b9e6f0b69ea5a15a2d12912dfe53523415fa51c96bf",
     "archive_path": "Cephalo_protein_predict_all_losstrack50_splitbyProtein_general/checkpoint-44252/adapter_model.safetensors",
-    "hub_repository": "TO_BE_DECIDED"
+    "hub_repository": "wlululu/cephalo-silk-general-lora"
   },
   {
     "profile": "spider_staged",
@@ -27,6 +27,6 @@
     "adapter_size_bytes": 94491920,
     "adapter_sha256": "297ccdca86a1005d7e656cc58b102446bf4ba4bb658052961b4a8b335e4a2552",
     "archive_path": "Cephalo_protein_predict_all_losstrack50_splitbyProtein_TwoStep/checkpoint-13720/adapter_model.safetensors",
-    "hub_repository": "TO_BE_DECIDED"
+    "hub_repository": "wlululu/cephalo-silk-staged-lora"
   }
 ]

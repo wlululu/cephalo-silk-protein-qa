@@ -1,0 +1,19 @@
+# Private datasets, credentials, and heavyweight model files
+.env
+.env.*
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.tga
+*.pdb
+*.zip
+*.ipynb
+*/.DS_Store
+.DS_Store
+__MACOSX/
+results/reproduced/

@@ -1,0 +1,27 @@
+{
+  "base_model": "lamm-mit/Cephalo-Llama-3.2-11B-Vision-Instruct-128k",
+  "adaptation": "LoRA",
+  "r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.1,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_up_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "num_train_epochs_per_stage": 4,
+  "per_device_train_batch_size": 1,
+  "gradient_accumulation_steps": 4,
+  "learning_rate": 1e-05,
+  "lr_scheduler_type": "cosine",
+  "warmup_ratio": 0.01,
+  "optimizer": "paged_adamw_8bit",
+  "max_grad_norm": 0.5,
+  "fp16": true,
+  "gradient_checkpointing": true,
+  "note": "Settings summarized from study SI; verify environment and model revision against historical notebooks before publication."
+}

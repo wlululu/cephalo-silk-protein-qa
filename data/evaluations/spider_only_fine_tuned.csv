@@ -1,0 +1,1520 @@
+protein_name,question,gold,pred
+1778_148,Does this protein contain alpha-helix?,Yes,Yes
+1778_148,Does this protein contain beta-sheet?,No,No
+1778_148,Does this protein contain coil?,Yes,Yes
+1778_148,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1778_148,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1778_148,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1778_148,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1590_150,Does this protein contain alpha-helix?,Yes,Yes
+1590_150,Does this protein contain beta-sheet?,No,No
+1590_150,Does this protein contain coil?,Yes,Yes
+1590_150,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1590_150,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1590_150,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1590_150,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1644_107,Does this protein contain alpha-helix?,Yes,Yes
+1644_107,Does this protein contain beta-sheet?,No,No
+1644_107,Does this protein contain coil?,Yes,Yes
+1644_107,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1644_107,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1644_107,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1644_107,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+547_156,Does this protein contain alpha-helix?,Yes,Yes
+547_156,Does this protein contain beta-sheet?,No,No
+547_156,Does this protein contain coil?,Yes,Yes
+547_156,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+547_156,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+547_156,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+547_156,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+993_102,Does this protein contain alpha-helix?,Yes,Yes
+993_102,Does this protein contain beta-sheet?,No,No
+993_102,Does this protein contain coil?,Yes,Yes
+993_102,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+993_102,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+993_102,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+993_102,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+434_154,Does this protein contain alpha-helix?,Yes,Yes
+434_154,Does this protein contain beta-sheet?,No,No
+434_154,Does this protein contain coil?,Yes,Yes
+434_154,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+434_154,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+434_154,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+434_154,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+36_150,Does this protein contain alpha-helix?,Yes,Yes
+36_150,Does this protein contain beta-sheet?,No,No
+36_150,Does this protein contain coil?,Yes,Yes
+36_150,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+36_150,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+36_150,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+36_150,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1229_104,Does this protein contain alpha-helix?,Yes,Yes
+1229_104,Does this protein contain beta-sheet?,No,No
+1229_104,Does this protein contain coil?,Yes,Yes
+1229_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1229_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1229_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1229_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1178_157,Does this protein contain alpha-helix?,Yes,Yes
+1178_157,Does this protein contain beta-sheet?,No,No
+1178_157,Does this protein contain coil?,Yes,Yes
+1178_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1178_157,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1178_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1178_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1484_53,Does this protein contain alpha-helix?,Yes,Yes
+1484_53,Does this protein contain beta-sheet?,No,No
+1484_53,Does this protein contain coil?,Yes,Yes
+1484_53,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1484_53,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+1484_53,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1484_53,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2124_102,Does this protein contain alpha-helix?,Yes,Yes
+2124_102,Does this protein contain beta-sheet?,Yes,Yes
+2124_102,Does this protein contain coil?,Yes,Yes
+2124_102,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2124_102,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2124_102,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2124_102,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+188_108,Does this protein contain alpha-helix?,Yes,Yes
+188_108,Does this protein contain beta-sheet?,No,No
+188_108,Does this protein contain coil?,Yes,Yes
+188_108,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+188_108,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+188_108,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+188_108,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2137_117,Does this protein contain alpha-helix?,Yes,Yes
+2137_117,Does this protein contain beta-sheet?,No,No
+2137_117,Does this protein contain coil?,Yes,Yes
+2137_117,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2137_117,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+2137_117,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2137_117,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+321_106,Does this protein contain alpha-helix?,Yes,Yes
+321_106,Does this protein contain beta-sheet?,No,No
+321_106,Does this protein contain coil?,Yes,Yes
+321_106,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+321_106,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+321_106,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+321_106,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1975_149,Does this protein contain alpha-helix?,Yes,Yes
+1975_149,Does this protein contain beta-sheet?,No,No
+1975_149,Does this protein contain coil?,Yes,Yes
+1975_149,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1975_149,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1975_149,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1975_149,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+808_115,Does this protein contain alpha-helix?,Yes,Yes
+808_115,Does this protein contain beta-sheet?,No,No
+808_115,Does this protein contain coil?,Yes,Yes
+808_115,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+808_115,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+808_115,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+808_115,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+1942_110,Does this protein contain alpha-helix?,Yes,Yes
+1942_110,Does this protein contain beta-sheet?,No,No
+1942_110,Does this protein contain coil?,Yes,Yes
+1942_110,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1942_110,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1942_110,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1942_110,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1485_142,Does this protein contain alpha-helix?,Yes,Yes
+1485_142,Does this protein contain beta-sheet?,No,No
+1485_142,Does this protein contain coil?,Yes,Yes
+1485_142,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1485_142,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1485_142,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1485_142,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1261_108,Does this protein contain alpha-helix?,Yes,Yes
+1261_108,Does this protein contain beta-sheet?,No,No
+1261_108,Does this protein contain coil?,Yes,Yes
+1261_108,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1261_108,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1261_108,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1261_108,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+252_83,Does this protein contain alpha-helix?,Yes,Yes
+252_83,Does this protein contain beta-sheet?,No,No
+252_83,Does this protein contain coil?,Yes,Yes
+252_83,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+252_83,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+252_83,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+252_83,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1476_157,Does this protein contain alpha-helix?,Yes,Yes
+1476_157,Does this protein contain beta-sheet?,No,No
+1476_157,Does this protein contain coil?,Yes,Yes
+1476_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1476_157,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1476_157,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1476_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+284_155,Does this protein contain alpha-helix?,Yes,Yes
+284_155,Does this protein contain beta-sheet?,No,No
+284_155,Does this protein contain coil?,Yes,Yes
+284_155,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+284_155,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+284_155,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+284_155,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2117_143,Does this protein contain alpha-helix?,Yes,Yes
+2117_143,Does this protein contain beta-sheet?,No,No
+2117_143,Does this protein contain coil?,Yes,Yes
+2117_143,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2117_143,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2117_143,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2117_143,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+846_105,Does this protein contain alpha-helix?,Yes,Yes
+846_105,Does this protein contain beta-sheet?,No,No
+846_105,Does this protein contain coil?,Yes,Yes
+846_105,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+846_105,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+846_105,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+846_105,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+791_95,Does this protein contain alpha-helix?,Yes,Yes
+791_95,Does this protein contain beta-sheet?,No,No
+791_95,Does this protein contain coil?,Yes,Yes
+791_95,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+791_95,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+791_95,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+791_95,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1218_155,Does this protein contain alpha-helix?,Yes,Yes
+1218_155,Does this protein contain beta-sheet?,No,No
+1218_155,Does this protein contain coil?,Yes,Yes
+1218_155,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1218_155,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1218_155,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1218_155,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+380_117,Does this protein contain alpha-helix?,Yes,Yes
+380_117,Does this protein contain beta-sheet?,No,No
+380_117,Does this protein contain coil?,Yes,Yes
+380_117,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+380_117,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+380_117,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+380_117,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1921_91,Does this protein contain alpha-helix?,Yes,Yes
+1921_91,Does this protein contain beta-sheet?,No,No
+1921_91,Does this protein contain coil?,Yes,Yes
+1921_91,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1921_91,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1921_91,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1921_91,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1487_114,Does this protein contain alpha-helix?,Yes,Yes
+1487_114,Does this protein contain beta-sheet?,No,No
+1487_114,Does this protein contain coil?,Yes,Yes
+1487_114,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1487_114,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1487_114,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1487_114,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+275_111,Does this protein contain alpha-helix?,Yes,Yes
+275_111,Does this protein contain beta-sheet?,No,No
+275_111,Does this protein contain coil?,Yes,Yes
+275_111,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+275_111,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+275_111,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+275_111,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+310_104,Does this protein contain alpha-helix?,Yes,Yes
+310_104,Does this protein contain beta-sheet?,No,No
+310_104,Does this protein contain coil?,Yes,Yes
+310_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+310_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+310_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+310_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1965_115,Does this protein contain alpha-helix?,Yes,Yes
+1965_115,Does this protein contain beta-sheet?,No,No
+1965_115,Does this protein contain coil?,Yes,Yes
+1965_115,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1965_115,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1965_115,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1965_115,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1274_150,Does this protein contain alpha-helix?,Yes,Yes
+1274_150,Does this protein contain beta-sheet?,No,No
+1274_150,Does this protein contain coil?,Yes,Yes
+1274_150,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1274_150,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1274_150,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1274_150,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2060_106,Does this protein contain alpha-helix?,Yes,Yes
+2060_106,Does this protein contain beta-sheet?,No,No
+2060_106,Does this protein contain coil?,Yes,Yes
+2060_106,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2060_106,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2060_106,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2060_106,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1749_104,Does this protein contain alpha-helix?,Yes,Yes
+1749_104,Does this protein contain beta-sheet?,No,No
+1749_104,Does this protein contain coil?,Yes,Yes
+1749_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1749_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1749_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1749_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1389_137,Does this protein contain alpha-helix?,Yes,Yes
+1389_137,Does this protein contain beta-sheet?,No,No
+1389_137,Does this protein contain coil?,Yes,Yes
+1389_137,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1389_137,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1389_137,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1389_137,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2166_161,Does this protein contain alpha-helix?,Yes,Yes
+2166_161,Does this protein contain beta-sheet?,No,No
+2166_161,Does this protein contain coil?,Yes,Yes
+2166_161,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2166_161,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2166_161,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2166_161,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1887_98,Does this protein contain alpha-helix?,Yes,Yes
+1887_98,Does this protein contain beta-sheet?,No,No
+1887_98,Does this protein contain coil?,Yes,Yes
+1887_98,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1887_98,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1887_98,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1887_98,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+305_117,Does this protein contain alpha-helix?,Yes,Yes
+305_117,Does this protein contain beta-sheet?,No,No
+305_117,Does this protein contain coil?,Yes,Yes
+305_117,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+305_117,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+305_117,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+305_117,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+641_115,Does this protein contain alpha-helix?,Yes,Yes
+641_115,Does this protein contain beta-sheet?,No,No
+641_115,Does this protein contain coil?,Yes,Yes
+641_115,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+641_115,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+641_115,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+641_115,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+141_160,Does this protein contain alpha-helix?,Yes,Yes
+141_160,Does this protein contain beta-sheet?,No,No
+141_160,Does this protein contain coil?,Yes,Yes
+141_160,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+141_160,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+141_160,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+141_160,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1203_126,Does this protein contain alpha-helix?,Yes,Yes
+1203_126,Does this protein contain beta-sheet?,No,No
+1203_126,Does this protein contain coil?,Yes,Yes
+1203_126,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1203_126,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1203_126,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1203_126,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2115_107,Does this protein contain alpha-helix?,Yes,Yes
+2115_107,Does this protein contain beta-sheet?,No,No
+2115_107,Does this protein contain coil?,Yes,Yes
+2115_107,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2115_107,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+2115_107,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2115_107,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1168_104,Does this protein contain alpha-helix?,Yes,Yes
+1168_104,Does this protein contain beta-sheet?,No,No
+1168_104,Does this protein contain coil?,Yes,Yes
+1168_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1168_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1168_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1168_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+987_98,Does this protein contain alpha-helix?,Yes,Yes
+987_98,Does this protein contain beta-sheet?,Yes,Yes
+987_98,Does this protein contain coil?,Yes,Yes
+987_98,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+987_98,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+987_98,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+987_98,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+171_52,Does this protein contain alpha-helix?,Yes,Yes
+171_52,Does this protein contain beta-sheet?,No,No
+171_52,Does this protein contain coil?,Yes,Yes
+171_52,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+171_52,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+171_52,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+171_52,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+337_144,Does this protein contain alpha-helix?,Yes,Yes
+337_144,Does this protein contain beta-sheet?,Yes,Yes
+337_144,Does this protein contain coil?,Yes,Yes
+337_144,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+337_144,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+337_144,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+337_144,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1101_58,Does this protein contain alpha-helix?,Yes,Yes
+1101_58,Does this protein contain beta-sheet?,No,No
+1101_58,Does this protein contain coil?,Yes,Yes
+1101_58,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1101_58,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1101_58,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1101_58,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+428_56,Does this protein contain alpha-helix?,Yes,Yes
+428_56,Does this protein contain beta-sheet?,No,No
+428_56,Does this protein contain coil?,Yes,Yes
+428_56,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+428_56,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+428_56,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+428_56,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+514_101,Does this protein contain alpha-helix?,Yes,Yes
+514_101,Does this protein contain beta-sheet?,No,No
+514_101,Does this protein contain coil?,Yes,Yes
+514_101,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+514_101,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+514_101,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+514_101,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+904_159,Does this protein contain alpha-helix?,Yes,Yes
+904_159,Does this protein contain beta-sheet?,No,No
+904_159,Does this protein contain coil?,Yes,Yes
+904_159,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+904_159,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+904_159,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+904_159,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+319_103,Does this protein contain alpha-helix?,Yes,Yes
+319_103,Does this protein contain beta-sheet?,No,No
+319_103,Does this protein contain coil?,Yes,Yes
+319_103,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+319_103,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+319_103,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+319_103,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+614_112,Does this protein contain alpha-helix?,Yes,Yes
+614_112,Does this protein contain beta-sheet?,Yes,Yes
+614_112,Does this protein contain coil?,Yes,Yes
+614_112,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+614_112,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+614_112,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+614_112,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1882_156,Does this protein contain alpha-helix?,Yes,Yes
+1882_156,Does this protein contain beta-sheet?,No,No
+1882_156,Does this protein contain coil?,Yes,Yes
+1882_156,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1882_156,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1882_156,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1882_156,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1480_152,Does this protein contain alpha-helix?,Yes,Yes
+1480_152,Does this protein contain beta-sheet?,No,No
+1480_152,Does this protein contain coil?,Yes,Yes
+1480_152,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1480_152,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1480_152,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1480_152,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1375_122,Does this protein contain alpha-helix?,Yes,Yes
+1375_122,Does this protein contain beta-sheet?,No,No
+1375_122,Does this protein contain coil?,Yes,Yes
+1375_122,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1375_122,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1375_122,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1375_122,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1419_114,Does this protein contain alpha-helix?,Yes,Yes
+1419_114,Does this protein contain beta-sheet?,No,No
+1419_114,Does this protein contain coil?,Yes,Yes
+1419_114,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1419_114,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1419_114,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1419_114,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+814_105,Does this protein contain alpha-helix?,Yes,Yes
+814_105,Does this protein contain beta-sheet?,No,No
+814_105,Does this protein contain coil?,Yes,Yes
+814_105,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+814_105,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+814_105,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+814_105,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+771_107,Does this protein contain alpha-helix?,No,No
+771_107,Does this protein contain beta-sheet?,No,No
+771_107,Does this protein contain coil?,Yes,Yes
+771_107,Which secondary structure is most prevalent?,coil,coil
+771_107,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+771_107,Is the protein hydrophobic (GRAVY > 0)?,No,No
+771_107,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1601_161,Does this protein contain alpha-helix?,Yes,Yes
+1601_161,Does this protein contain beta-sheet?,No,No
+1601_161,Does this protein contain coil?,Yes,Yes
+1601_161,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1601_161,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1601_161,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1601_161,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2041_154,Does this protein contain alpha-helix?,Yes,Yes
+2041_154,Does this protein contain beta-sheet?,No,No
+2041_154,Does this protein contain coil?,Yes,Yes
+2041_154,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2041_154,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+2041_154,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2041_154,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+561_147,Does this protein contain alpha-helix?,Yes,Yes
+561_147,Does this protein contain beta-sheet?,No,No
+561_147,Does this protein contain coil?,Yes,Yes
+561_147,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+561_147,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+561_147,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+561_147,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1102_108,Does this protein contain alpha-helix?,Yes,Yes
+1102_108,Does this protein contain beta-sheet?,No,No
+1102_108,Does this protein contain coil?,Yes,Yes
+1102_108,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1102_108,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1102_108,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1102_108,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+691_10,Does this protein contain alpha-helix?,No,No
+691_10,Does this protein contain beta-sheet?,No,No
+691_10,Does this protein contain coil?,Yes,Yes
+691_10,Which secondary structure is most prevalent?,coil,coil
+691_10,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+691_10,Is the protein hydrophobic (GRAVY > 0)?,No,No
+691_10,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1111_127,Does this protein contain alpha-helix?,Yes,Yes
+1111_127,Does this protein contain beta-sheet?,No,No
+1111_127,Does this protein contain coil?,Yes,Yes
+1111_127,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1111_127,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1111_127,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1111_127,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1931_153,Does this protein contain alpha-helix?,Yes,Yes
+1931_153,Does this protein contain beta-sheet?,No,No
+1931_153,Does this protein contain coil?,Yes,Yes
+1931_153,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1931_153,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1931_153,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1931_153,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+320_164,Does this protein contain alpha-helix?,Yes,Yes
+320_164,Does this protein contain beta-sheet?,No,No
+320_164,Does this protein contain coil?,Yes,Yes
+320_164,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+320_164,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+320_164,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+320_164,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+971_110,Does this protein contain alpha-helix?,Yes,Yes
+971_110,Does this protein contain beta-sheet?,No,No
+971_110,Does this protein contain coil?,Yes,Yes
+971_110,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+971_110,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+971_110,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+971_110,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1740_164,Does this protein contain alpha-helix?,Yes,Yes
+1740_164,Does this protein contain beta-sheet?,No,No
+1740_164,Does this protein contain coil?,Yes,Yes
+1740_164,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1740_164,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1740_164,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1740_164,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1162_150,Does this protein contain alpha-helix?,Yes,Yes
+1162_150,Does this protein contain beta-sheet?,No,No
+1162_150,Does this protein contain coil?,Yes,Yes
+1162_150,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1162_150,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1162_150,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1162_150,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+263_158,Does this protein contain alpha-helix?,Yes,Yes
+263_158,Does this protein contain beta-sheet?,No,No
+263_158,Does this protein contain coil?,Yes,Yes
+263_158,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+263_158,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+263_158,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+263_158,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1250_119,Does this protein contain alpha-helix?,Yes,Yes
+1250_119,Does this protein contain beta-sheet?,No,No
+1250_119,Does this protein contain coil?,Yes,Yes
+1250_119,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1250_119,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1250_119,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1250_119,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+273_167,Does this protein contain alpha-helix?,Yes,Yes
+273_167,Does this protein contain beta-sheet?,No,No
+273_167,Does this protein contain coil?,Yes,Yes
+273_167,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+273_167,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+273_167,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+273_167,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1992_117,Does this protein contain alpha-helix?,Yes,Yes
+1992_117,Does this protein contain beta-sheet?,No,No
+1992_117,Does this protein contain coil?,Yes,Yes
+1992_117,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1992_117,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1992_117,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1992_117,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+682_83,Does this protein contain alpha-helix?,Yes,Yes
+682_83,Does this protein contain beta-sheet?,No,No
+682_83,Does this protein contain coil?,Yes,Yes
+682_83,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+682_83,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+682_83,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+682_83,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+756_153,Does this protein contain alpha-helix?,Yes,Yes
+756_153,Does this protein contain beta-sheet?,No,No
+756_153,Does this protein contain coil?,Yes,Yes
+756_153,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+756_153,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+756_153,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+756_153,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+868_155,Does this protein contain alpha-helix?,Yes,Yes
+868_155,Does this protein contain beta-sheet?,No,No
+868_155,Does this protein contain coil?,Yes,Yes
+868_155,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+868_155,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+868_155,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+868_155,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1648_113,Does this protein contain alpha-helix?,Yes,Yes
+1648_113,Does this protein contain beta-sheet?,No,No
+1648_113,Does this protein contain coil?,Yes,Yes
+1648_113,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1648_113,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1648_113,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1648_113,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+1225_141,Does this protein contain alpha-helix?,Yes,Yes
+1225_141,Does this protein contain beta-sheet?,No,No
+1225_141,Does this protein contain coil?,Yes,Yes
+1225_141,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1225_141,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1225_141,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1225_141,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1783_132,Does this protein contain alpha-helix?,Yes,Yes
+1783_132,Does this protein contain beta-sheet?,No,No
+1783_132,Does this protein contain coil?,Yes,Yes
+1783_132,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1783_132,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1783_132,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1783_132,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+338_113,Does this protein contain alpha-helix?,Yes,Yes
+338_113,Does this protein contain beta-sheet?,No,No
+338_113,Does this protein contain coil?,Yes,Yes
+338_113,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+338_113,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+338_113,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+338_113,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+570_114,Does this protein contain alpha-helix?,Yes,Yes
+570_114,Does this protein contain beta-sheet?,No,No
+570_114,Does this protein contain coil?,Yes,Yes
+570_114,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+570_114,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+570_114,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+570_114,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1074_143,Does this protein contain alpha-helix?,Yes,Yes
+1074_143,Does this protein contain beta-sheet?,No,No
+1074_143,Does this protein contain coil?,Yes,Yes
+1074_143,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1074_143,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1074_143,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1074_143,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1122_155,Does this protein contain alpha-helix?,Yes,Yes
+1122_155,Does this protein contain beta-sheet?,No,No
+1122_155,Does this protein contain coil?,Yes,Yes
+1122_155,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1122_155,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1122_155,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1122_155,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1071_84,Does this protein contain alpha-helix?,Yes,Yes
+1071_84,Does this protein contain beta-sheet?,No,No
+1071_84,Does this protein contain coil?,Yes,Yes
+1071_84,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1071_84,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1071_84,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1071_84,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1770_109,Does this protein contain alpha-helix?,Yes,Yes
+1770_109,Does this protein contain beta-sheet?,No,No
+1770_109,Does this protein contain coil?,Yes,Yes
+1770_109,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1770_109,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1770_109,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1770_109,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2047_101,Does this protein contain alpha-helix?,Yes,Yes
+2047_101,Does this protein contain beta-sheet?,No,No
+2047_101,Does this protein contain coil?,Yes,Yes
+2047_101,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2047_101,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2047_101,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2047_101,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2138_107,Does this protein contain alpha-helix?,Yes,Yes
+2138_107,Does this protein contain beta-sheet?,No,No
+2138_107,Does this protein contain coil?,Yes,Yes
+2138_107,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2138_107,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2138_107,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2138_107,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+529_82,Does this protein contain alpha-helix?,Yes,Yes
+529_82,Does this protein contain beta-sheet?,No,No
+529_82,Does this protein contain coil?,Yes,Yes
+529_82,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+529_82,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+529_82,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+529_82,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1440_160,Does this protein contain alpha-helix?,Yes,Yes
+1440_160,Does this protein contain beta-sheet?,No,No
+1440_160,Does this protein contain coil?,Yes,Yes
+1440_160,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1440_160,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1440_160,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1440_160,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+454_104,Does this protein contain alpha-helix?,Yes,Yes
+454_104,Does this protein contain beta-sheet?,No,No
+454_104,Does this protein contain coil?,Yes,Yes
+454_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+454_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+454_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+454_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+400_126,Does this protein contain alpha-helix?,Yes,Yes
+400_126,Does this protein contain beta-sheet?,No,No
+400_126,Does this protein contain coil?,Yes,Yes
+400_126,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+400_126,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+400_126,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+400_126,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+298_121,Does this protein contain alpha-helix?,Yes,Yes
+298_121,Does this protein contain beta-sheet?,No,No
+298_121,Does this protein contain coil?,Yes,Yes
+298_121,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+298_121,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+298_121,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+298_121,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+21_104,Does this protein contain alpha-helix?,Yes,Yes
+21_104,Does this protein contain beta-sheet?,No,No
+21_104,Does this protein contain coil?,Yes,Yes
+21_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+21_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+21_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+21_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+910_144,Does this protein contain alpha-helix?,Yes,Yes
+910_144,Does this protein contain beta-sheet?,No,No
+910_144,Does this protein contain coil?,Yes,Yes
+910_144,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+910_144,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+910_144,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+910_144,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1023_75,Does this protein contain alpha-helix?,Yes,Yes
+1023_75,Does this protein contain beta-sheet?,No,No
+1023_75,Does this protein contain coil?,Yes,Yes
+1023_75,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1023_75,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1023_75,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1023_75,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+656_137,Does this protein contain alpha-helix?,Yes,Yes
+656_137,Does this protein contain beta-sheet?,No,No
+656_137,Does this protein contain coil?,Yes,Yes
+656_137,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+656_137,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+656_137,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+656_137,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+1558_69,Does this protein contain alpha-helix?,Yes,Yes
+1558_69,Does this protein contain beta-sheet?,No,No
+1558_69,Does this protein contain coil?,Yes,Yes
+1558_69,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1558_69,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1558_69,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1558_69,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+794_113,Does this protein contain alpha-helix?,Yes,Yes
+794_113,Does this protein contain beta-sheet?,No,No
+794_113,Does this protein contain coil?,Yes,Yes
+794_113,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+794_113,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+794_113,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+794_113,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1717_116,Does this protein contain alpha-helix?,Yes,Yes
+1717_116,Does this protein contain beta-sheet?,No,No
+1717_116,Does this protein contain coil?,Yes,Yes
+1717_116,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1717_116,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1717_116,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1717_116,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+418_157,Does this protein contain alpha-helix?,Yes,Yes
+418_157,Does this protein contain beta-sheet?,No,No
+418_157,Does this protein contain coil?,Yes,Yes
+418_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+418_157,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+418_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+418_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1863_136,Does this protein contain alpha-helix?,Yes,Yes
+1863_136,Does this protein contain beta-sheet?,No,No
+1863_136,Does this protein contain coil?,Yes,Yes
+1863_136,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1863_136,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1863_136,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1863_136,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+768_104,Does this protein contain alpha-helix?,Yes,Yes
+768_104,Does this protein contain beta-sheet?,No,No
+768_104,Does this protein contain coil?,Yes,Yes
+768_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+768_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+768_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+768_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1000_156,Does this protein contain alpha-helix?,Yes,Yes
+1000_156,Does this protein contain beta-sheet?,No,No
+1000_156,Does this protein contain coil?,Yes,Yes
+1000_156,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1000_156,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1000_156,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1000_156,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1061_66,Does this protein contain alpha-helix?,Yes,Yes
+1061_66,Does this protein contain beta-sheet?,No,No
+1061_66,Does this protein contain coil?,Yes,Yes
+1061_66,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1061_66,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1061_66,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1061_66,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+905_158,Does this protein contain alpha-helix?,Yes,Yes
+905_158,Does this protein contain beta-sheet?,No,No
+905_158,Does this protein contain coil?,Yes,Yes
+905_158,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+905_158,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+905_158,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+905_158,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+941_138,Does this protein contain alpha-helix?,Yes,Yes
+941_138,Does this protein contain beta-sheet?,No,No
+941_138,Does this protein contain coil?,Yes,Yes
+941_138,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+941_138,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+941_138,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+941_138,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+912_132,Does this protein contain alpha-helix?,Yes,Yes
+912_132,Does this protein contain beta-sheet?,No,No
+912_132,Does this protein contain coil?,Yes,Yes
+912_132,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+912_132,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+912_132,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+912_132,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+1852_100,Does this protein contain alpha-helix?,Yes,Yes
+1852_100,Does this protein contain beta-sheet?,No,No
+1852_100,Does this protein contain coil?,Yes,Yes
+1852_100,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1852_100,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1852_100,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1852_100,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1468_108,Does this protein contain alpha-helix?,Yes,Yes
+1468_108,Does this protein contain beta-sheet?,No,No
+1468_108,Does this protein contain coil?,Yes,Yes
+1468_108,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1468_108,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1468_108,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1468_108,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1254_105,Does this protein contain alpha-helix?,Yes,Yes
+1254_105,Does this protein contain beta-sheet?,No,No
+1254_105,Does this protein contain coil?,Yes,Yes
+1254_105,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1254_105,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1254_105,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1254_105,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1036_152,Does this protein contain alpha-helix?,Yes,Yes
+1036_152,Does this protein contain beta-sheet?,No,No
+1036_152,Does this protein contain coil?,Yes,Yes
+1036_152,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1036_152,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1036_152,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1036_152,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2177_87,Does this protein contain alpha-helix?,Yes,Yes
+2177_87,Does this protein contain beta-sheet?,No,No
+2177_87,Does this protein contain coil?,Yes,Yes
+2177_87,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2177_87,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+2177_87,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2177_87,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+518_144,Does this protein contain alpha-helix?,Yes,Yes
+518_144,Does this protein contain beta-sheet?,Yes,No
+518_144,Does this protein contain coil?,Yes,Yes
+518_144,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+518_144,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+518_144,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+518_144,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1563_121,Does this protein contain alpha-helix?,Yes,Yes
+1563_121,Does this protein contain beta-sheet?,No,No
+1563_121,Does this protein contain coil?,Yes,Yes
+1563_121,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1563_121,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1563_121,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1563_121,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1973_115,Does this protein contain alpha-helix?,Yes,Yes
+1973_115,Does this protein contain beta-sheet?,No,No
+1973_115,Does this protein contain coil?,Yes,Yes
+1973_115,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1973_115,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1973_115,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1973_115,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1988_157,Does this protein contain alpha-helix?,Yes,Yes
+1988_157,Does this protein contain beta-sheet?,No,No
+1988_157,Does this protein contain coil?,Yes,Yes
+1988_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1988_157,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1988_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1988_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1872_105,Does this protein contain alpha-helix?,Yes,Yes
+1872_105,Does this protein contain beta-sheet?,No,No
+1872_105,Does this protein contain coil?,Yes,Yes
+1872_105,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1872_105,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1872_105,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1872_105,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1107_97,Does this protein contain alpha-helix?,Yes,Yes
+1107_97,Does this protein contain beta-sheet?,No,No
+1107_97,Does this protein contain coil?,Yes,Yes
+1107_97,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1107_97,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1107_97,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1107_97,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1052_86,Does this protein contain alpha-helix?,Yes,Yes
+1052_86,Does this protein contain beta-sheet?,No,No
+1052_86,Does this protein contain coil?,Yes,Yes
+1052_86,Which secondary structure is most prevalent?,coil,coil
+1052_86,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1052_86,Is the protein hydrophobic (GRAVY > 0)?,No,No
+1052_86,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+796_153,Does this protein contain alpha-helix?,Yes,Yes
+796_153,Does this protein contain beta-sheet?,No,No
+796_153,Does this protein contain coil?,Yes,Yes
+796_153,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+796_153,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+796_153,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+796_153,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2155_157,Does this protein contain alpha-helix?,Yes,Yes
+2155_157,Does this protein contain beta-sheet?,No,No
+2155_157,Does this protein contain coil?,Yes,Yes
+2155_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2155_157,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2155_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2155_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1584_92,Does this protein contain alpha-helix?,Yes,Yes
+1584_92,Does this protein contain beta-sheet?,No,No
+1584_92,Does this protein contain coil?,Yes,Yes
+1584_92,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1584_92,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1584_92,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1584_92,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+984_114,Does this protein contain alpha-helix?,Yes,Yes
+984_114,Does this protein contain beta-sheet?,No,No
+984_114,Does this protein contain coil?,Yes,Yes
+984_114,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+984_114,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+984_114,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+984_114,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1627_116,Does this protein contain alpha-helix?,Yes,Yes
+1627_116,Does this protein contain beta-sheet?,No,No
+1627_116,Does this protein contain coil?,Yes,Yes
+1627_116,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1627_116,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1627_116,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1627_116,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1814_105,Does this protein contain alpha-helix?,Yes,Yes
+1814_105,Does this protein contain beta-sheet?,No,No
+1814_105,Does this protein contain coil?,Yes,Yes
+1814_105,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1814_105,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1814_105,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1814_105,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1246_28,Does this protein contain alpha-helix?,No,No
+1246_28,Does this protein contain beta-sheet?,No,No
+1246_28,Does this protein contain coil?,Yes,Yes
+1246_28,Which secondary structure is most prevalent?,coil,coil
+1246_28,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1246_28,Is the protein hydrophobic (GRAVY > 0)?,No,No
+1246_28,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1690_116,Does this protein contain alpha-helix?,Yes,Yes
+1690_116,Does this protein contain beta-sheet?,No,No
+1690_116,Does this protein contain coil?,Yes,Yes
+1690_116,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1690_116,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1690_116,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1690_116,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+826_139,Does this protein contain alpha-helix?,Yes,Yes
+826_139,Does this protein contain beta-sheet?,No,No
+826_139,Does this protein contain coil?,Yes,Yes
+826_139,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+826_139,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+826_139,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+826_139,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+185_90,Does this protein contain alpha-helix?,Yes,Yes
+185_90,Does this protein contain beta-sheet?,No,No
+185_90,Does this protein contain coil?,Yes,Yes
+185_90,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+185_90,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+185_90,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+185_90,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1359_155,Does this protein contain alpha-helix?,Yes,Yes
+1359_155,Does this protein contain beta-sheet?,No,No
+1359_155,Does this protein contain coil?,Yes,Yes
+1359_155,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1359_155,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1359_155,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1359_155,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1443_69,Does this protein contain alpha-helix?,Yes,Yes
+1443_69,Does this protein contain beta-sheet?,No,No
+1443_69,Does this protein contain coil?,Yes,Yes
+1443_69,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1443_69,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1443_69,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1443_69,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1426_156,Does this protein contain alpha-helix?,Yes,Yes
+1426_156,Does this protein contain beta-sheet?,No,No
+1426_156,Does this protein contain coil?,Yes,Yes
+1426_156,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1426_156,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1426_156,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1426_156,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+330_106,Does this protein contain alpha-helix?,Yes,Yes
+330_106,Does this protein contain beta-sheet?,No,No
+330_106,Does this protein contain coil?,Yes,Yes
+330_106,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+330_106,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+330_106,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+330_106,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+568_149,Does this protein contain alpha-helix?,Yes,Yes
+568_149,Does this protein contain beta-sheet?,No,No
+568_149,Does this protein contain coil?,Yes,Yes
+568_149,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+568_149,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+568_149,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+568_149,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+978_106,Does this protein contain alpha-helix?,Yes,Yes
+978_106,Does this protein contain beta-sheet?,No,No
+978_106,Does this protein contain coil?,Yes,Yes
+978_106,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+978_106,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+978_106,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+978_106,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2017_84,Does this protein contain alpha-helix?,Yes,Yes
+2017_84,Does this protein contain beta-sheet?,No,No
+2017_84,Does this protein contain coil?,Yes,Yes
+2017_84,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2017_84,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2017_84,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2017_84,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+465_103,Does this protein contain alpha-helix?,Yes,Yes
+465_103,Does this protein contain beta-sheet?,No,No
+465_103,Does this protein contain coil?,Yes,Yes
+465_103,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+465_103,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+465_103,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+465_103,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1194_137,Does this protein contain alpha-helix?,Yes,Yes
+1194_137,Does this protein contain beta-sheet?,No,No
+1194_137,Does this protein contain coil?,Yes,Yes
+1194_137,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1194_137,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1194_137,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1194_137,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+714_155,Does this protein contain alpha-helix?,Yes,Yes
+714_155,Does this protein contain beta-sheet?,No,No
+714_155,Does this protein contain coil?,Yes,Yes
+714_155,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+714_155,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+714_155,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+714_155,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1594_31,Does this protein contain alpha-helix?,No,No
+1594_31,Does this protein contain beta-sheet?,Yes,No
+1594_31,Does this protein contain coil?,Yes,Yes
+1594_31,Which secondary structure is most prevalent?,coil,coil
+1594_31,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1594_31,Is the protein hydrophobic (GRAVY > 0)?,No,No
+1594_31,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+631_148,Does this protein contain alpha-helix?,Yes,Yes
+631_148,Does this protein contain beta-sheet?,No,No
+631_148,Does this protein contain coil?,Yes,Yes
+631_148,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+631_148,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+631_148,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+631_148,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+662_20,Does this protein contain alpha-helix?,Yes,Yes
+662_20,Does this protein contain beta-sheet?,No,No
+662_20,Does this protein contain coil?,Yes,Yes
+662_20,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+662_20,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+662_20,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+662_20,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1449_110,Does this protein contain alpha-helix?,Yes,Yes
+1449_110,Does this protein contain beta-sheet?,No,No
+1449_110,Does this protein contain coil?,Yes,Yes
+1449_110,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1449_110,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1449_110,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1449_110,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+839_44,Does this protein contain alpha-helix?,Yes,Yes
+839_44,Does this protein contain beta-sheet?,No,No
+839_44,Does this protein contain coil?,Yes,Yes
+839_44,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+839_44,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+839_44,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+839_44,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+1222_150,Does this protein contain alpha-helix?,Yes,Yes
+1222_150,Does this protein contain beta-sheet?,No,No
+1222_150,Does this protein contain coil?,Yes,Yes
+1222_150,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1222_150,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1222_150,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1222_150,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1798_160,Does this protein contain alpha-helix?,Yes,Yes
+1798_160,Does this protein contain beta-sheet?,No,No
+1798_160,Does this protein contain coil?,Yes,Yes
+1798_160,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1798_160,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1798_160,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1798_160,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+386_114,Does this protein contain alpha-helix?,Yes,Yes
+386_114,Does this protein contain beta-sheet?,No,No
+386_114,Does this protein contain coil?,Yes,Yes
+386_114,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+386_114,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+386_114,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+386_114,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+45_159,Does this protein contain alpha-helix?,Yes,Yes
+45_159,Does this protein contain beta-sheet?,No,No
+45_159,Does this protein contain coil?,Yes,Yes
+45_159,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+45_159,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+45_159,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+45_159,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1793_157,Does this protein contain alpha-helix?,Yes,Yes
+1793_157,Does this protein contain beta-sheet?,No,No
+1793_157,Does this protein contain coil?,Yes,Yes
+1793_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1793_157,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1793_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1793_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1475_79,Does this protein contain alpha-helix?,Yes,Yes
+1475_79,Does this protein contain beta-sheet?,No,No
+1475_79,Does this protein contain coil?,Yes,Yes
+1475_79,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1475_79,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1475_79,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1475_79,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+312_107,Does this protein contain alpha-helix?,Yes,Yes
+312_107,Does this protein contain beta-sheet?,No,No
+312_107,Does this protein contain coil?,Yes,Yes
+312_107,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+312_107,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+312_107,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+312_107,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+572_157,Does this protein contain alpha-helix?,Yes,Yes
+572_157,Does this protein contain beta-sheet?,No,No
+572_157,Does this protein contain coil?,Yes,Yes
+572_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+572_157,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+572_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+572_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+84_129,Does this protein contain alpha-helix?,Yes,Yes
+84_129,Does this protein contain beta-sheet?,No,No
+84_129,Does this protein contain coil?,Yes,Yes
+84_129,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+84_129,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+84_129,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+84_129,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+626_141,Does this protein contain alpha-helix?,Yes,Yes
+626_141,Does this protein contain beta-sheet?,No,No
+626_141,Does this protein contain coil?,Yes,Yes
+626_141,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+626_141,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+626_141,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+626_141,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1281_112,Does this protein contain alpha-helix?,Yes,Yes
+1281_112,Does this protein contain beta-sheet?,No,No
+1281_112,Does this protein contain coil?,Yes,Yes
+1281_112,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1281_112,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1281_112,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1281_112,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1980_146,Does this protein contain alpha-helix?,Yes,Yes
+1980_146,Does this protein contain beta-sheet?,No,No
+1980_146,Does this protein contain coil?,Yes,Yes
+1980_146,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1980_146,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1980_146,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1980_146,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1477_152,Does this protein contain alpha-helix?,Yes,Yes
+1477_152,Does this protein contain beta-sheet?,No,No
+1477_152,Does this protein contain coil?,Yes,Yes
+1477_152,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1477_152,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+1477_152,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1477_152,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+158_138,Does this protein contain alpha-helix?,Yes,Yes
+158_138,Does this protein contain beta-sheet?,No,No
+158_138,Does this protein contain coil?,Yes,Yes
+158_138,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+158_138,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+158_138,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+158_138,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+505_164,Does this protein contain alpha-helix?,Yes,Yes
+505_164,Does this protein contain beta-sheet?,No,No
+505_164,Does this protein contain coil?,Yes,Yes
+505_164,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+505_164,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+505_164,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+505_164,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1964_148,Does this protein contain alpha-helix?,Yes,Yes
+1964_148,Does this protein contain beta-sheet?,No,No
+1964_148,Does this protein contain coil?,Yes,Yes
+1964_148,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1964_148,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1964_148,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1964_148,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2087_113,Does this protein contain alpha-helix?,Yes,Yes
+2087_113,Does this protein contain beta-sheet?,No,No
+2087_113,Does this protein contain coil?,Yes,Yes
+2087_113,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2087_113,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+2087_113,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2087_113,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1600_157,Does this protein contain alpha-helix?,Yes,Yes
+1600_157,Does this protein contain beta-sheet?,No,No
+1600_157,Does this protein contain coil?,Yes,Yes
+1600_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1600_157,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1600_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1600_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+60_152,Does this protein contain alpha-helix?,Yes,Yes
+60_152,Does this protein contain beta-sheet?,No,No
+60_152,Does this protein contain coil?,Yes,Yes
+60_152,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+60_152,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+60_152,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+60_152,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2014_109,Does this protein contain alpha-helix?,Yes,Yes
+2014_109,Does this protein contain beta-sheet?,No,No
+2014_109,Does this protein contain coil?,Yes,Yes
+2014_109,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2014_109,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+2014_109,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2014_109,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1068_149,Does this protein contain alpha-helix?,Yes,Yes
+1068_149,Does this protein contain beta-sheet?,No,No
+1068_149,Does this protein contain coil?,Yes,Yes
+1068_149,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1068_149,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1068_149,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1068_149,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+580_160,Does this protein contain alpha-helix?,Yes,Yes
+580_160,Does this protein contain beta-sheet?,No,No
+580_160,Does this protein contain coil?,Yes,Yes
+580_160,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+580_160,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+580_160,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+580_160,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+436_88,Does this protein contain alpha-helix?,Yes,Yes
+436_88,Does this protein contain beta-sheet?,No,No
+436_88,Does this protein contain coil?,Yes,Yes
+436_88,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+436_88,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+436_88,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+436_88,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+160_141,Does this protein contain alpha-helix?,Yes,Yes
+160_141,Does this protein contain beta-sheet?,No,No
+160_141,Does this protein contain coil?,Yes,Yes
+160_141,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+160_141,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+160_141,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+160_141,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+374_120,Does this protein contain alpha-helix?,Yes,Yes
+374_120,Does this protein contain beta-sheet?,No,No
+374_120,Does this protein contain coil?,Yes,Yes
+374_120,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+374_120,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+374_120,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+374_120,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1911_159,Does this protein contain alpha-helix?,Yes,Yes
+1911_159,Does this protein contain beta-sheet?,No,No
+1911_159,Does this protein contain coil?,Yes,Yes
+1911_159,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1911_159,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1911_159,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1911_159,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1356_154,Does this protein contain alpha-helix?,Yes,Yes
+1356_154,Does this protein contain beta-sheet?,No,No
+1356_154,Does this protein contain coil?,Yes,Yes
+1356_154,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1356_154,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1356_154,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1356_154,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+191_51,Does this protein contain alpha-helix?,Yes,Yes
+191_51,Does this protein contain beta-sheet?,No,No
+191_51,Does this protein contain coil?,Yes,Yes
+191_51,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+191_51,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+191_51,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+191_51,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1344_167,Does this protein contain alpha-helix?,Yes,Yes
+1344_167,Does this protein contain beta-sheet?,No,No
+1344_167,Does this protein contain coil?,Yes,Yes
+1344_167,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1344_167,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+1344_167,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1344_167,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1771_107,Does this protein contain alpha-helix?,Yes,Yes
+1771_107,Does this protein contain beta-sheet?,No,No
+1771_107,Does this protein contain coil?,Yes,Yes
+1771_107,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1771_107,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1771_107,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1771_107,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1595_111,Does this protein contain alpha-helix?,Yes,Yes
+1595_111,Does this protein contain beta-sheet?,No,No
+1595_111,Does this protein contain coil?,Yes,Yes
+1595_111,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1595_111,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1595_111,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1595_111,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2107_154,Does this protein contain alpha-helix?,Yes,Yes
+2107_154,Does this protein contain beta-sheet?,No,No
+2107_154,Does this protein contain coil?,Yes,Yes
+2107_154,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2107_154,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+2107_154,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2107_154,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+2160_160,Does this protein contain alpha-helix?,Yes,Yes
+2160_160,Does this protein contain beta-sheet?,No,No
+2160_160,Does this protein contain coil?,Yes,Yes
+2160_160,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+2160_160,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+2160_160,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+2160_160,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+847_120,Does this protein contain alpha-helix?,Yes,Yes
+847_120,Does this protein contain beta-sheet?,No,No
+847_120,Does this protein contain coil?,Yes,Yes
+847_120,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+847_120,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+847_120,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+847_120,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+359_58,Does this protein contain alpha-helix?,Yes,Yes
+359_58,Does this protein contain beta-sheet?,No,No
+359_58,Does this protein contain coil?,Yes,Yes
+359_58,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+359_58,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+359_58,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+359_58,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1078_148,Does this protein contain alpha-helix?,Yes,Yes
+1078_148,Does this protein contain beta-sheet?,No,No
+1078_148,Does this protein contain coil?,Yes,Yes
+1078_148,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1078_148,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1078_148,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1078_148,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+817_148,Does this protein contain alpha-helix?,Yes,Yes
+817_148,Does this protein contain beta-sheet?,No,No
+817_148,Does this protein contain coil?,Yes,Yes
+817_148,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+817_148,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+817_148,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+817_148,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1726_115,Does this protein contain alpha-helix?,Yes,Yes
+1726_115,Does this protein contain beta-sheet?,No,No
+1726_115,Does this protein contain coil?,Yes,Yes
+1726_115,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1726_115,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1726_115,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1726_115,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1954_137,Does this protein contain alpha-helix?,Yes,Yes
+1954_137,Does this protein contain beta-sheet?,No,No
+1954_137,Does this protein contain coil?,Yes,Yes
+1954_137,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1954_137,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+1954_137,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1954_137,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+548_150,Does this protein contain alpha-helix?,Yes,Yes
+548_150,Does this protein contain beta-sheet?,No,No
+548_150,Does this protein contain coil?,Yes,Yes
+548_150,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+548_150,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+548_150,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+548_150,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+942_157,Does this protein contain alpha-helix?,Yes,Yes
+942_157,Does this protein contain beta-sheet?,No,No
+942_157,Does this protein contain coil?,Yes,Yes
+942_157,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+942_157,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+942_157,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+942_157,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+221_110,Does this protein contain alpha-helix?,Yes,Yes
+221_110,Does this protein contain beta-sheet?,No,No
+221_110,Does this protein contain coil?,Yes,Yes
+221_110,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+221_110,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+221_110,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+221_110,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+1143_154,Does this protein contain alpha-helix?,Yes,Yes
+1143_154,Does this protein contain beta-sheet?,No,No
+1143_154,Does this protein contain coil?,Yes,Yes
+1143_154,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1143_154,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1143_154,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1143_154,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+80_110,Does this protein contain alpha-helix?,Yes,Yes
+80_110,Does this protein contain beta-sheet?,No,No
+80_110,Does this protein contain coil?,Yes,Yes
+80_110,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+80_110,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+80_110,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+80_110,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1303_115,Does this protein contain alpha-helix?,Yes,Yes
+1303_115,Does this protein contain beta-sheet?,No,No
+1303_115,Does this protein contain coil?,Yes,Yes
+1303_115,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1303_115,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1303_115,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1303_115,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+105_154,Does this protein contain alpha-helix?,Yes,Yes
+105_154,Does this protein contain beta-sheet?,No,No
+105_154,Does this protein contain coil?,Yes,Yes
+105_154,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+105_154,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+105_154,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+105_154,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+479_149,Does this protein contain alpha-helix?,Yes,Yes
+479_149,Does this protein contain beta-sheet?,No,No
+479_149,Does this protein contain coil?,Yes,Yes
+479_149,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+479_149,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+479_149,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+479_149,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+989_95,Does this protein contain alpha-helix?,Yes,Yes
+989_95,Does this protein contain beta-sheet?,No,No
+989_95,Does this protein contain coil?,Yes,Yes
+989_95,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+989_95,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+989_95,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+989_95,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+25_104,Does this protein contain alpha-helix?,Yes,Yes
+25_104,Does this protein contain beta-sheet?,No,No
+25_104,Does this protein contain coil?,Yes,Yes
+25_104,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+25_104,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+25_104,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+25_104,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+196_153,Does this protein contain alpha-helix?,Yes,Yes
+196_153,Does this protein contain beta-sheet?,No,No
+196_153,Does this protein contain coil?,Yes,Yes
+196_153,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+196_153,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+196_153,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+196_153,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+894_114,Does this protein contain alpha-helix?,Yes,Yes
+894_114,Does this protein contain beta-sheet?,No,No
+894_114,Does this protein contain coil?,Yes,Yes
+894_114,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+894_114,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+894_114,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+894_114,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+1033_155,Does this protein contain alpha-helix?,Yes,Yes
+1033_155,Does this protein contain beta-sheet?,No,No
+1033_155,Does this protein contain coil?,Yes,Yes
+1033_155,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1033_155,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1033_155,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+1033_155,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1840_148,Does this protein contain alpha-helix?,Yes,Yes
+1840_148,Does this protein contain beta-sheet?,No,No
+1840_148,Does this protein contain coil?,Yes,Yes
+1840_148,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1840_148,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1840_148,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1840_148,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+95_105,Does this protein contain alpha-helix?,Yes,Yes
+95_105,Does this protein contain beta-sheet?,No,No
+95_105,Does this protein contain coil?,Yes,Yes
+95_105,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+95_105,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+95_105,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+95_105,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+85_95,Does this protein contain alpha-helix?,Yes,Yes
+85_95,Does this protein contain beta-sheet?,Yes,Yes
+85_95,Does this protein contain coil?,Yes,Yes
+85_95,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+85_95,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+85_95,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+85_95,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+799_148,Does this protein contain alpha-helix?,Yes,Yes
+799_148,Does this protein contain beta-sheet?,No,No
+799_148,Does this protein contain coil?,Yes,Yes
+799_148,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+799_148,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+799_148,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+799_148,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1057_159,Does this protein contain alpha-helix?,Yes,Yes
+1057_159,Does this protein contain beta-sheet?,No,No
+1057_159,Does this protein contain coil?,Yes,Yes
+1057_159,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1057_159,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1057_159,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1057_159,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+732_109,Does this protein contain alpha-helix?,Yes,Yes
+732_109,Does this protein contain beta-sheet?,No,No
+732_109,Does this protein contain coil?,Yes,Yes
+732_109,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+732_109,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+732_109,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+732_109,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+740_112,Does this protein contain alpha-helix?,Yes,Yes
+740_112,Does this protein contain beta-sheet?,No,No
+740_112,Does this protein contain coil?,Yes,Yes
+740_112,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+740_112,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+740_112,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+740_112,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+253_73,Does this protein contain alpha-helix?,Yes,Yes
+253_73,Does this protein contain beta-sheet?,No,No
+253_73,Does this protein contain coil?,Yes,Yes
+253_73,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+253_73,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+253_73,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+253_73,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1459_97,Does this protein contain alpha-helix?,Yes,Yes
+1459_97,Does this protein contain beta-sheet?,No,No
+1459_97,Does this protein contain coil?,Yes,Yes
+1459_97,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1459_97,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1459_97,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1459_97,Is the protein acidic (pI < 7) or basic (pI > 7)?,Basic,Acidic
+373_34,Does this protein contain alpha-helix?,Yes,Yes
+373_34,Does this protein contain beta-sheet?,No,No
+373_34,Does this protein contain coil?,Yes,Yes
+373_34,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+373_34,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+373_34,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+373_34,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+710_150,Does this protein contain alpha-helix?,Yes,Yes
+710_150,Does this protein contain beta-sheet?,No,No
+710_150,Does this protein contain coil?,Yes,Yes
+710_150,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+710_150,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+710_150,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+710_150,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1707_80,Does this protein contain alpha-helix?,Yes,Yes
+1707_80,Does this protein contain beta-sheet?,No,No
+1707_80,Does this protein contain coil?,Yes,Yes
+1707_80,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1707_80,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1707_80,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1707_80,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+259_36,Does this protein contain alpha-helix?,Yes,Yes
+259_36,Does this protein contain beta-sheet?,No,No
+259_36,Does this protein contain coil?,Yes,Yes
+259_36,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+259_36,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+259_36,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+259_36,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1586_99,Does this protein contain alpha-helix?,Yes,Yes
+1586_99,Does this protein contain beta-sheet?,Yes,Yes
+1586_99,Does this protein contain coil?,Yes,Yes
+1586_99,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1586_99,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,No
+1586_99,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1586_99,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+988_164,Does this protein contain alpha-helix?,Yes,Yes
+988_164,Does this protein contain beta-sheet?,No,No
+988_164,Does this protein contain coil?,Yes,Yes
+988_164,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+988_164,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+988_164,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+988_164,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+115_94,Does this protein contain alpha-helix?,No,No
+115_94,Does this protein contain beta-sheet?,No,Yes
+115_94,Does this protein contain coil?,Yes,Yes
+115_94,Which secondary structure is most prevalent?,coil,coil
+115_94,Is the protein predicted to be stable (instability index ≤ 40)?,Yes,Yes
+115_94,Is the protein hydrophobic (GRAVY > 0)?,Yes,No
+115_94,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+357_125,Does this protein contain alpha-helix?,Yes,Yes
+357_125,Does this protein contain beta-sheet?,No,No
+357_125,Does this protein contain coil?,Yes,Yes
+357_125,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+357_125,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+357_125,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+357_125,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1799_109,Does this protein contain alpha-helix?,Yes,Yes
+1799_109,Does this protein contain beta-sheet?,No,No
+1799_109,Does this protein contain coil?,Yes,Yes
+1799_109,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1799_109,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+1799_109,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1799_109,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+659_151,Does this protein contain alpha-helix?,Yes,Yes
+659_151,Does this protein contain beta-sheet?,No,No
+659_151,Does this protein contain coil?,Yes,Yes
+659_151,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+659_151,Is the protein predicted to be stable (instability index ≤ 40)?,No,No
+659_151,Is the protein hydrophobic (GRAVY > 0)?,No,Yes
+659_151,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic
+1822_165,Does this protein contain alpha-helix?,Yes,Yes
+1822_165,Does this protein contain beta-sheet?,No,No
+1822_165,Does this protein contain coil?,Yes,Yes
+1822_165,Which secondary structure is most prevalent?,alpha-helix,alpha-helix
+1822_165,Is the protein predicted to be stable (instability index ≤ 40)?,No,Yes
+1822_165,Is the protein hydrophobic (GRAVY > 0)?,Yes,Yes
+1822_165,Is the protein acidic (pI < 7) or basic (pI > 7)?,Acidic,Acidic

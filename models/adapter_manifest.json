@@ -1,0 +1,32 @@
+[
+  {
+    "profile": "spider_only",
+    "checkpoint": "checkpoint-13720",
+    "base_model_name_or_path": "lamm-mit/Cephalo-Llama-3.2-11B-Vision-Instruct-128k",
+    "adapter_filename": "adapter_model.safetensors",
+    "adapter_size_bytes": 94491920,
+    "adapter_sha256": "2ef12f806e7e6a74f37cbac2b581d6df0438208276b25f93b8ac854d56e5e168",
+    "archive_path": "Cephalo_protein_predict_all_losstrack50_splitbyProtein_spider/checkpoint-13720/adapter_model.safetensors",
+    "hub_repository": "TO_BE_DECIDED"
+  },
+  {
+    "profile": "general_only",
+    "checkpoint": "checkpoint-44252",
+    "base_model_name_or_path": "lamm-mit/Cephalo-Llama-3.2-11B-Vision-Instruct-128k",
+    "adapter_filename": "adapter_model.safetensors",
+    "adapter_size_bytes": 94491920,
+    "adapter_sha256": "3ea5efd0cc1f846686f49b9e6f0b69ea5a15a2d12912dfe53523415fa51c96bf",
+    "archive_path": "Cephalo_protein_predict_all_losstrack50_splitbyProtein_general/checkpoint-44252/adapter_model.safetensors",
+    "hub_repository": "TO_BE_DECIDED"
+  },
+  {
+    "profile": "spider_staged",
+    "checkpoint": "checkpoint-13720",
+    "base_model_name_or_path": "wlululu/Cephalo_protein_predict_all_losstrack50_splitbyProtein_general-merged_Epoch4",
+    "adapter_filename": "adapter_model.safetensors",
+    "adapter_size_bytes": 94491920,
+    "adapter_sha256": "297ccdca86a1005d7e656cc58b102446bf4ba4bb658052961b4a8b335e4a2552",
+    "archive_path": "Cephalo_protein_predict_all_losstrack50_splitbyProtein_TwoStep/checkpoint-13720/adapter_model.safetensors",
+    "hub_repository": "TO_BE_DECIDED"
+  }
+]

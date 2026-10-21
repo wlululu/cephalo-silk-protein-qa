@@ -1,0 +1,4 @@
+profile,label,held_out_proteins,question_answer_pairs,zero_shot_accuracy_pct,fine_tuned_accuracy_pct,matched_difference_pp,paired_protein_bootstrap_95ci_lower_pp,paired_protein_bootstrap_95ci_upper_pp
+spider_only,Spider-silk-only,217,1519,41.803818301514156,93.08755760368663,51.283739302172485,50.03291639236339,52.46872942725476
+general_only,General-protein-only,702,4914,30.626780626780626,87.36263736263736,56.735856735856736,55.63695563695563,57.855107855107846
+spider_staged,General-to-spider,217,1519,41.21132323897301,94.47004608294931,53.258722843976294,51.876234364713625,54.575378538512176

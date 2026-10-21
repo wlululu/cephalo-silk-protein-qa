@@ -1,0 +1,7 @@
+profile,check,value
+spider_only,historical_EM_equal_uniform_score,0
+spider_only,matched_QA_rows,1519
+general_only,historical_EM_equal_uniform_score,0
+general_only,matched_QA_rows,4914
+spider_staged,historical_EM_equal_uniform_score,0
+spider_staged,matched_QA_rows,1519

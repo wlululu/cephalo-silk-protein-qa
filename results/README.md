@@ -1,0 +1,1 @@
+Aggregate CSV tables have been copied from the previously verified six-run evaluation. `paired_bootstrap_effects.csv` is a separate verified protein-level paired-bootstrap summary (10,000 resamples, seed 20261021). Raw predictions are intentionally absent from this review package; see docs/release_checklist.md.

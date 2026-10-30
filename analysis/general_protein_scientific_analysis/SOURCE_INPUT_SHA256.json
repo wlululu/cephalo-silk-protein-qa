@@ -1,0 +1,10 @@
+{
+  "inputs/class_aware_bootstrap.csv": "6c954c466201e72d9e4e20ea04f2b961c18847d0a6371b9dc35f28442f149c1d",
+  "inputs/extraction_freeze.json": "23eaa8af4246389486bab54754ad9c2e79de792282c8ff1aad64701c6f732663",
+  "inputs/general_only_fine_tuned_annotated.csv": "8a2dee7317cdf2d04c62449c5e9336eef7dd75135b54d9f1d84915448074f87b",
+  "inputs/general_only_zero_shot_annotated.csv": "37142762d31e30c5b40538b6edae6b36e36e338692bc12550eada12b72c20f75",
+  "inputs/paired_protein_bootstrap.csv": "24a5258d1028565144f3f90da053234d7d1e4e8bf68ce5e037e75f6b0b1e7618",
+  "inputs/per_class_metrics.csv": "eec9ad21e47c909af662b66e0ac5bdc3f7be5488b96d3b7b596949144cf150dc",
+  "inputs/per_property_metrics.csv": "7f7630acfa3c73ef6c4867d91f78c3bb9b0f8bd89f650dfc3cc82dc2bcdb2b73",
+  "inputs/source_discovery.json": "a236df975ba52c031dbd946d7e097b8608f002e51b1cf13a71a60a12abf10042"
+}

@@ -1,0 +1,1 @@
+PASS: independent summary/majority counts, chi-square statistics, empirical structure ceilings, conditional expectations, all fine-tuned subgroup recalls, and unchanged inputs.

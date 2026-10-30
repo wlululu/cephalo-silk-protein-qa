@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/*_annotated.csv
+results/strict_reproduction/
+figures/
+*.pdf

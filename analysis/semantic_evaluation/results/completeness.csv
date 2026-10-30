@@ -1,0 +1,7 @@
+profile,model,rows,proteins,questions_per_protein,duplicate_keys,empty_cells,split_ids_match,gold_valid,source_sha256
+spider_only,zero_shot,1519,217,7,0,0,True,True,b68863686fc57b80216d0d8c67d7eba7c97d67afa5be35a038fccc3ba27c2e63
+spider_only,fine_tuned,1519,217,7,0,0,True,True,26fb2c17843542909ffc5b5c3064a5f942e838e8cb84d5968475163536dddfe1
+general_only,zero_shot,4914,702,7,0,0,True,True,51147ed673c3b2c4b25dcfbcfb833cd2488f96916f219989728c4f69bb13a3ef
+general_only,fine_tuned,4914,702,7,0,0,True,True,805f8889f4defdef286e43138437d7d89852826903749917269c720122b558b9
+spider_staged,zero_shot,1519,217,7,0,0,True,True,0f8dd81e68f7d96da8e1053b811462354020611d1677f0ed871962b868e2a93d
+spider_staged,fine_tuned,1519,217,7,0,0,True,True,737dd754e163de910d813de2eb43c5906b04c03c07eed7e51af497a6c6b34118

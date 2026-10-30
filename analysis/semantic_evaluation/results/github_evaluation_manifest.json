@@ -1,0 +1,36 @@
+{
+  "commit": "ef4f2945b8673d98b77f8fbfca862175b0c87a3d",
+  "source_url": "https://github.com/wlululu/cephalo-silk-protein-qa",
+  "files": [
+    {
+      "path": "data/evaluations/general_only_fine_tuned.csv",
+      "git_blob_sha1": "7612517b2feab2553c9bb2312175cb38daf12d8d",
+      "bytes": 314293
+    },
+    {
+      "path": "data/evaluations/general_only_zero_shot.csv",
+      "git_blob_sha1": "c38af6dc6d0e89d6fbe6bedd932bd0d438dc1b5b",
+      "bytes": 1276844
+    },
+    {
+      "path": "data/evaluations/spider_only_fine_tuned.csv",
+      "git_blob_sha1": "faf9958696f5ec7ef90b747b212a82686c6e2128",
+      "bytes": 95937
+    },
+    {
+      "path": "data/evaluations/spider_only_zero_shot.csv",
+      "git_blob_sha1": "3bf1d623419a2fd0b7f451a3ec004491baa30835",
+      "bytes": 321514
+    },
+    {
+      "path": "data/evaluations/spider_staged_fine_tuned.csv",
+      "git_blob_sha1": "1f2a23fceff2880cc5ac76f2700d961e74d1305a",
+      "bytes": 96093
+    },
+    {
+      "path": "data/evaluations/spider_staged_zero_shot.csv",
+      "git_blob_sha1": "f8b98d53fc38aa30a4da6003ad633cb7e887152e",
+      "bytes": 321510
+    }
+  ]
+}

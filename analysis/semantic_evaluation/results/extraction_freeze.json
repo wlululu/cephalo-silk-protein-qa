@@ -1,0 +1,8 @@
+{
+  "scripts/semantic_labels.py": "4cb1e58cb1d58b3d52daeec9c1a26db1f286582924c66e8ba8183aaed71d37ae",
+  "scripts/freeze_extraction.py": "d0d61f29d767fea96ed01266495418249fd5ad3429a6ddb363cd3e2424d93f08",
+  "scripts/adjudication_policy.json": "6b16bd887a21238c94309e239c2cf6a412555e32cfc462b2b753a2eaed6a2930",
+  "blind_unique_responses.csv": "009156209fe9820619541af1b851a7184dcc3c3a4b3cc270cd7f555677fe7874",
+  "results/blind_adjudications.csv": "3a98c374560e47854074fa2c78324661b8c09423dc988afeca5773db64947319",
+  "results/frozen_extraction.csv": "f1d638563586fa21c8bcda3ab2e50b9b7538fd52328e6f7191da866c9a76dff3"
+}

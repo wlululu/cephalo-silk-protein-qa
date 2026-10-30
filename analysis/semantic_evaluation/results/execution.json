@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "seed": 20261030,
+  "replicates": 10000,
+  "source_commit": "ef4f2945b8673d98b77f8fbfca862175b0c87a3d",
+  "evaluation_rows": 15904,
+  "unique_question_responses": 2204
+}

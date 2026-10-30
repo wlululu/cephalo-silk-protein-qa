@@ -1,0 +1,38 @@
+[
+  {
+    "path": "data/evaluations/spider_only_zero_shot.csv",
+    "bytes": 321514,
+    "sha256": "b68863686fc57b80216d0d8c67d7eba7c97d67afa5be35a038fccc3ba27c2e63",
+    "git_blob_sha1": "3bf1d623419a2fd0b7f451a3ec004491baa30835"
+  },
+  {
+    "path": "data/evaluations/spider_only_fine_tuned.csv",
+    "bytes": 95937,
+    "sha256": "26fb2c17843542909ffc5b5c3064a5f942e838e8cb84d5968475163536dddfe1",
+    "git_blob_sha1": "faf9958696f5ec7ef90b747b212a82686c6e2128"
+  },
+  {
+    "path": "data/evaluations/general_only_zero_shot.csv",
+    "bytes": 1276844,
+    "sha256": "51147ed673c3b2c4b25dcfbcfb833cd2488f96916f219989728c4f69bb13a3ef",
+    "git_blob_sha1": "c38af6dc6d0e89d6fbe6bedd932bd0d438dc1b5b"
+  },
+  {
+    "path": "data/evaluations/general_only_fine_tuned.csv",
+    "bytes": 314293,
+    "sha256": "805f8889f4defdef286e43138437d7d89852826903749917269c720122b558b9",
+    "git_blob_sha1": "7612517b2feab2553c9bb2312175cb38daf12d8d"
+  },
+  {
+    "path": "data/evaluations/spider_staged_zero_shot.csv",
+    "bytes": 321510,
+    "sha256": "0f8dd81e68f7d96da8e1053b811462354020611d1677f0ed871962b868e2a93d",
+    "git_blob_sha1": "f8b98d53fc38aa30a4da6003ad633cb7e887152e"
+  },
+  {
+    "path": "data/evaluations/spider_staged_fine_tuned.csv",
+    "bytes": 96093,
+    "sha256": "737dd754e163de910d813de2eb43c5906b04c03c07eed7e51af497a6c6b34118",
+    "git_blob_sha1": "1f2a23fceff2880cc5ac76f2700d961e74d1305a"
+  }
+]

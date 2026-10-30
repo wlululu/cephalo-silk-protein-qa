@@ -1,0 +1,4 @@
+profile_a,profile_b,shared_protein_ids,shared_qa,identical_responses,identical_gold
+spider_only,general_only,0,0,0,0
+spider_only,spider_staged,23,161,138,161
+general_only,spider_staged,0,0,0,0

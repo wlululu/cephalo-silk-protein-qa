@@ -1,0 +1,7 @@
+profile,model,source_hash,row_alignment,independent_strict,independent_semantic,status_partition
+spider_only,zero_shot,PASS,PASS,PASS,PASS,PASS
+spider_only,fine_tuned,PASS,PASS,PASS,PASS,PASS
+general_only,zero_shot,PASS,PASS,PASS,PASS,PASS
+general_only,fine_tuned,PASS,PASS,PASS,PASS,PASS
+spider_staged,zero_shot,PASS,PASS,PASS,PASS,PASS
+spider_staged,fine_tuned,PASS,PASS,PASS,PASS,PASS

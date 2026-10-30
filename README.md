@@ -24,6 +24,15 @@ For an existing uv-managed `.venv`, substitute `.venv/bin/python` for `python`.
 
 The zero-shot and fine-tuned results are paired **within each adaptation profile**. The spider-only and staged profiles have distinct held-out protein sets; they should not be treated as a paired comparison of training strategies. Results use strict whole-response categorical labels, so measured improvements can include response-format effects. See [methodology and interpretation](docs/REPRODUCIBILITY.md).
 
+### Additional semantic-label evaluation
+
+A supplementary semantic-label analysis evaluates categorical answers embedded in explanatory responses using ground-truth-blind extraction rules. This helps distinguish response-format compliance, answer availability, and classification performance.
+
+For general proteins, zero-shot accuracy increases from 30.63% (strict) to 54.56% (semantic), compared with 87.36% after fine-tuning. On matched responses where both models provide extractable answers, fine-tuning retains an 18.72-percentage-point improvement (95% CI: 17.30–20.19 pp).
+
+See the [semantic evaluation analysis](analysis/semantic_evaluation/README.md)
+for complete results and reproducibility details.
+
 ## Contents
 
 - [`scripts/score_benchmark.py`](scripts/score_benchmark.py): matched six-run scoring, per-task evaluation, paired protein-level bootstrap intervals and integrity checks.
@@ -36,6 +45,7 @@ The zero-shot and fine-tuned results are paired **within each adaptation profile
 - [`scripts/render_pdb_isometric.py`](scripts/render_pdb_isometric.py): example protein-structure rendering helper using VMD.
 - [`models/adapter_manifest.json`](models/adapter_manifest.json): original LoRA checkpoint metadata and weights checksums.
 - [`docs/`](docs/): benchmark reproducibility, model dependencies and reported training settings.
+- [`analysis/semantic_evaluation/`](analysis/semantic_evaluation/): Ground-truth-blind semantic-label evaluation of archived predictions, including per-property metrics, class-aware analysis, paired bootstrap confidence intervals, and reproducible scripts.
 
 ## Datasets and models
 

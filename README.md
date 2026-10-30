@@ -46,6 +46,7 @@ for complete results and reproducibility details.
 - [`models/adapter_manifest.json`](models/adapter_manifest.json): original LoRA checkpoint metadata and weights checksums.
 - [`docs/`](docs/): benchmark reproducibility, model dependencies and reported training settings.
 - [`analysis/semantic_evaluation/`](analysis/semantic_evaluation/): Ground-truth-blind semantic-label evaluation of archived predictions, including per-property metrics, class-aware analysis, paired bootstrap confidence intervals, and reproducible scripts.
+- [`analysis/general_protein_scientific_analysis/`](analysis/general_protein_scientific_analysis/): Structure-conditioned physicochemical property analysis, subgroup performance, class-aware uncertainty, conditional randomization, and reproducible figures.
 
 ## Datasets and models
 
